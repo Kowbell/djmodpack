@@ -1,0 +1,42 @@
+# INSTRUCTIONS (5 minutes or less, or your money back!)
+"Double click a file, tweak one setting in Minecraft, copy two folders, 
+        & run the game to make sure it works!"
+
+Forge AND OptiFine are included in this! 
+You DON'T need to DOWNLOAD ANYTHING extra unless you really wanna?
+
+
+## 1. Install Forge (PACKAGED IN THIS ZIP)
+1. Install the forge .jar file by double clicking it.
+   Install the **FORGE CLIENT**.
+
+   If the forge .jar doesn't open a little blue window doesn't show up
+   or Windows asks you how to open it, you need to install Java on your computer.
+   <TODO LINK A JRE FOR THEM>
+
+3. Open your Minecraft Launcher and ******DON'T START THE GAME YET!******
+
+4. Go to the Installations tab and edit the forge profile
+
+5. Change the Game directory to the `.minecraft/versions/1.16.3-forge-34.1.42` folder. 
+   This way your mods and saves for that folder will be isolated to just that 
+   version so you don't fuck your shit up.
+
+6. Run this new version and make a new empty world to ensure everything's working. 
+   If things break go to Google. You can delete the world when you're done.
+
+
+
+## 2. Install Mods (ALSO PACKAGED IN THIS ZIP)
+1. Find the mods folder for your new Minecraft installation. 
+   You can copy the path from those Installation settings you opened earlier. 
+   (Windows: drop `%APPDATA%\.minecraft\versions\1.16.3-forge-34.1.42` in that top bar)
+
+2. Copy everything inside the `mods/` folder in your dj.zip 
+   into the `mods/` folder in your version directory.
+
+3. Copy everything inside the `config/` folder in your dj.zip 
+   into the `config/` folder in your version directory.
+
+3. Run Minecraft and try to start another new world to make sure things are still working.
+
