@@ -12,7 +12,9 @@ You DON'T need to DOWNLOAD ANYTHING extra unless you really wanna?
 
    If the forge .jar doesn't open a little blue window doesn't show up
    or Windows asks you how to open it, you need to install Java on your computer.
-   <TODO LINK A JRE FOR THEM>
+   Here's links for those:
+WINDOWS: https://github.com/Kowbell/djmodpack/releases/download/2.4/jre-8u271-windows-x64.zip
+MAC: https://github.com/Kowbell/djmodpack/releases/download/2.4/jre-8u271-macosx-x64.zip
 
 3. Open your Minecraft Launcher and ******DON'T START THE GAME YET!******
 
