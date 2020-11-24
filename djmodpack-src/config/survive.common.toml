@@ -1,7 +1,7 @@
 
 [sleep]
 	#Disabling this will disable this mods sleep management system
-	"Enable Sleep" = true
+	"Enable Sleep" = false
 	#The amount of ticks after the player has not slept before The tiredness effect starts to manifest
 	# One game day  is 24000 ticks
 	# Current value (76800) = 3.2 days (3 days with a buffer!)

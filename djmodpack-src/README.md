@@ -1,4 +1,3 @@
-
 # INSTRUCTIONS (5 minutes or less, or your money back!)
 "Double click a file, tweak one setting in Minecraft, copy two folders, run the game to make sure it works."
 
@@ -35,14 +34,20 @@ https://www.curseforge.com/minecraft/mc-mods/survive/
 * You can boil a bottle of water in a furnace to purify it
 * There's also temperature but don't think that does anything tbh
 
-
-### Apotheosis
+### Apotheosis (Enchantment + Potions Improvements, more high-level mobs)
 https://www.curseforge.com/minecraft/mc-mods/apotheosis
 
 * Good enchantment overhaul
 * More dangerous/high-level mobs
 * Potion tweaks?
 (NOTE : Village, Garden, and Spawner modules are disabled)
+
+### Guard Villagers
+https://www.curseforge.com/minecraft/mc-mods/guard-villagers
+
+* Automatic + manually-settable profession
+* Illagers attack your animals now too
+* Clerics can heal guards/the player
 
 ### XP From Harvesting
 https://www.curseforge.com/minecraft/mc-mods/xp-from-harvest
@@ -55,16 +60,69 @@ https://www.curseforge.com/minecraft/mc-mods/xp-tome
 
 * You can store XP in special books now
 
-### Villager Death Messages
-https://www.curseforge.com/minecraft/mc-mods/villager-death-messages
+### Backpacked
+https://www.curseforge.com/minecraft/mc-mods/backpacked
 
-* Tells you when villagers die
+* Leather backpacks
+
+<br/><br/> <!----> <!----> <!----> <!----> <!----> <!----> <!---->
+<!----> <!----> <!----> <!----> <!----> <!----> <!----> <!---->
+
+## Cosmetic/UI
+
+## Just Enough Items (JEI)
+https://www.curseforge.com/minecraft/mc-mods/jei/
+
+* Better recipe viewer
+
+```markdown
+## Inventory:
+(Minecraft Options -> Controls)
+* Show Recipes: Hover over item + R
+* Show Uses: Hover over item + U
+* Toggle Item List Overlay: Control + O
+
+## Item List:
+* Show Recipes Click Item or type R
+* Show Uses : Right-Click Item or type U
+* Next/Previous page: Scroll Wheel
+
+* Open Config Menu: Click Wrench at bottom-right
+* Toggle Cheat mode: Control-Click Wrench at bottom-right
+
+## Search:
+* Select Search Bar: Click or Control + F
+* Clear Search: Right Click
+* Previous Search: Up Arrow
+* Search by Mod Name: Type @ in front of a word (@thaum)
+* Multiple terms work together (wand @thaum)
+
+* Exclude search terms: Type - in front of a word (@thaum -wand)
+
+* Search terms that have spaces in them: Type "" around the words ("two words")
+
+## Recipe View:
+	Next/Previous page: Scroll Wheel
+	Show all Recipes: Click the recipe category's name
+	Move items into crafting area: Click the [+] button. Shift-Click to move 	multiple sets of items.
+```
+
+
+### AppleSkin
+https://www.curseforge.com/minecraft/mc-mods/appleskin
+
+* Shows saturation values on hunger bar
 
 ### Toast Control
 https://www.curseforge.com/minecraft/mc-mods/toast-control/
 
 * Disables those stupid fucking tutorial popups
 * Can be configured to hide other stupid bullshit
+
+### Villager Death Messages
+https://www.curseforge.com/minecraft/mc-mods/villager-death-messages
+
+* Tells you when villagers die
 
 ### Back Tools
 https://www.curseforge.com/minecraft/mc-mods/back-tools
@@ -75,7 +133,6 @@ https://www.curseforge.com/minecraft/mc-mods/back-tools
 https://www.curseforge.com/minecraft/mc-mods/let-sleeping-dogs-lie
 
 * Dogs sleep when sitting for too long
-
 
 <br/><br/> <!----> <!----> <!----> <!----> <!----> <!----> <!---->
 <!----> <!----> <!----> <!----> <!----> <!----> <!----> <!---->
@@ -167,6 +224,9 @@ https://www.curseforge.com/minecraft/mc-mods/rats
 
 ### Optifine (1.16.3_HD_U_G5)
 https://optifine.net/adloadx?f=OptiFine_1.16.3_HD_U_G5.jar&x=1682
+
+### AI Improvements
+https://www.curseforge.com/minecraft/mc-mods/ai-improvements
 
 ### Clumps
 https://www.curseforge.com/minecraft/mc-mods/clumps/files
